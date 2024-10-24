@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041D\u0410\u0423\\5 \u043A\u0443\u0440\u0441\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\Lab3_Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0705739-4CA0-435D-8740-8E5936EA16AB}|Lab3_Auth\\Lab3_Auth.csproj|d:\\\u043D\u0430\u0443\\5 \u043A\u0443\u0440\u0441\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\lab3_auth\\lab3_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0705739-4CA0-435D-8740-8E5936EA16AB}|Lab3_Auth\\Lab3_Auth.csproj|solutionrelative:lab3_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0705739-4CA0-435D-8740-8E5936EA16AB}|Lab3_Auth\\Lab3_Auth.csproj|d:\\\u043D\u0430\u0443\\5 \u043A\u0443\u0440\u0441\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\lab3_auth\\lab3_auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0705739-4CA0-435D-8740-8E5936EA16AB}|Lab3_Auth\\Lab3_Auth.csproj|solutionrelative:lab3_auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0705739-4CA0-435D-8740-8E5936EA16AB}|Lab3_Auth\\Lab3_Auth.csproj|d:\\\u043D\u0430\u0443\\5 \u043A\u0443\u0440\u0441\\\u0441\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\lab3_auth\\lab3_auth\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0705739-4CA0-435D-8740-8E5936EA16AB}|Lab3_Auth\\Lab3_Auth.csproj|solutionrelative:lab3_auth\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "D:\\\u041D\u0410\u0423\\5 \u043A\u0443\u0440\u0441\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\Lab3_Auth\\Lab3_Auth\\DataController.cs",
+              "RelativeDocumentMoniker": "Lab3_Auth\\DataController.cs",
+              "ToolTip": "D:\\\u041D\u0410\u0423\\5 \u043A\u0443\u0440\u0441\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\Lab3_Auth\\Lab3_Auth\\DataController.cs",
+              "RelativeToolTip": "Lab3_Auth\\DataController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:38:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\\u041D\u0410\u0423\\5 \u043A\u0443\u0440\u0441\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\Lab3_Auth\\Lab3_Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "Lab3_Auth\\AuthController.cs",
+              "ToolTip": "D:\\\u041D\u0410\u0423\\5 \u043A\u0443\u0440\u0441\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\Lab3_Auth\\Lab3_Auth\\AuthController.cs",
+              "RelativeToolTip": "Lab3_Auth\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:37:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041D\u0410\u0423\\5 \u043A\u0443\u0440\u0441\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\Lab3_Auth\\Lab3_Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3_Auth\\Program.cs",
+              "ToolTip": "D:\\\u041D\u0410\u0423\\5 \u043A\u0443\u0440\u0441\\\u0421\u0443\u0447\u0430\u0441\u043D\u0456 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457 \u0440\u043E\u0437\u0440\u043E\u0431\u043A\u0438 \u0441\u0435\u0440\u0432\u0456\u0441-\u043E\u0440\u0456\u0454\u043D\u0442\u043E\u0432\u0430\u043D\u0438\u0445 \u0437\u0430\u0441\u0442\u043E\u0441\u0443\u043D\u043A\u0456\u0432\\Lab3_Auth\\Lab3_Auth\\Program.cs",
+              "RelativeToolTip": "Lab3_Auth\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:36:08.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
